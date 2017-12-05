@@ -1,0 +1,7 @@
+default:
+  suites:
+    default:
+      contexts:
+        - FeatureContext:
+            github_username: prime5
+            github_password: RogStan@21
